@@ -24,6 +24,17 @@ output:
 1. Run the main.py file
 2. give the input **amazon_cells_labelled.txt imdb_labelled.txt yelp_labelled.txt** when see the prompt
 
-
+## Result bar charts
+ Using raw feature matrix:
+ 
+ ![Accuracy before using feature selection](rawFtAccuracy.png)
+ 
+ After Applying feature selection algorithm (top K frequent words)
+ 
+ ![Accuracy after using feature selection](reducedFtAccuracy.png)
+ Compare the performance on time:
+ 
+ ![Time comparision](classificationTime.png)
+ 
 ## License and Authority
 Leon Cai (https://github.com/LeonCai1)
