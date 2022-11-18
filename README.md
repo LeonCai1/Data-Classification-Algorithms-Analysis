@@ -27,14 +27,14 @@ output:
 ## Result bar charts
  Using raw feature matrix:
  
- ![Accuracy before using feature selection](rawFtAccuracy.png)
+ ![Accuracy before using feature selection](result_chart/rawFtAccuracy.png)
  
- After Applying feature selection algorithm (top K frequent words)
+ After Applying feature selection algorithm (result_chart/top K frequent words)
  
- ![Accuracy after using feature selection](reducedFtAccuracy.png)
+ ![Accuracy after using feature selection](result_chart/reducedFtAccuracy.png)
  Compare the performance on time:
  
- ![Time comparision](classificationTime.png)
+ ![Time comparision](result_chart/classificationTime.png)
  
 ## License and Authority
 Leon Cai (https://github.com/LeonCai1)
